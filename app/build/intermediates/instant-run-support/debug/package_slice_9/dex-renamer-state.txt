@@ -1,0 +1,4 @@
+#Thu Feb 08 17:49:28 PST 2018
+base.0=L\:\\FMPlusForStatons\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

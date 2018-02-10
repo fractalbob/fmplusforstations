@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/station_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tool_bar"
+        android:gravity="center"
+        android:background="@color/colorStationName"
+        android:text="KQED-88.5"
+        />
+
+    <ImageView
+        android:id="@+id/cover_art"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tool_bar"
+        android:src="@drawable/cover_art_dummy" />
+
+    <LinearLayout
+        android:id="@+id/controls"
+        android:orientation="horizontal"
+        android:layout_below="@+id/cover_art"
+        android:background="@color/controlsBackground"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/volume"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="10dp"
+            app:fabSize="mini"
+            app:srcCompat="@drawable/volume" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/output_device"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            app:fabSize="mini"
+            app:srcCompat="@drawable/phone" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/email"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            app:fabSize="mini"
+            app:srcCompat="@drawable/email" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/favorite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            app:fabSize="mini"
+            app:srcCompat="@drawable/favorites_red" />
+
+        <ImageView
+            android:id="@+id/station_logo"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/kqed_logo"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/tuner"
+        android:orientation="vertical"
+        android:layout_below="@+id/controls"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+  <!--      <RelativeLayout
+            android:id="@+id/scale_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/homeStars"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="centerInside"
+                android:src="@drawable/background" />
+
+            <ImageView
+                android:id="@+id/homeLogo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="2dip"
+                android:src="@drawable/logo" />
+
+-->
+        <RelativeLayout
+            android:id="@+id/tuner_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+  <!--          <HorizontalScrollView
+                android:id="@+id/scale_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:id="@+id/scale"
+                    android:layout_width="1400dp"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/scale"/>
+
+            </HorizontalScrollView>-->
+            <ImageView
+                android:id="@+id/redline"
+                android:layout_width="5dp"
+                android:layout_height="80dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/scale"/>
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/tuning_mode"
+            android:orientation="horizontal"
+            android:background="@color/controlsBackground"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tune"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:gravity="center"
+                android:layout_height="wrap_content"
+                android:text="@string/tune"
+                />
+
+            <TextView
+                android:id="@+id/seek"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:gravity="center"
+                android:layout_height="wrap_content"
+                android:text="@string/seek"
+                />
+
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

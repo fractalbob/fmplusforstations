@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FM+ for KQED</string>
+    <string name="facebook_app_id">1476139032497106</string>
+    <string name="fb_login_protocol_scheme">fb1476139032497106</string>
+    <string name="login">Login</string>
+    <string name="radio_text">Radio</string>
+    <string name="stations_text">Stations</string>
+    <string name="favorites_text">Favorites</string>
+    <string name="extras_text">Extras</string>
+    <string name="exit_text">Exit</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="successfully_posted_post">Post ID: %1$s</string>
+    <string name="ok">OK</string>
+    <string name="tune">Tune</string>
+    <string name="seek">Seek</string>
+    <string name="welcome">Welcome back,</string>
+    <string name="version">Version</string>
+    <string name="exit_app">Exit FMPlusForStations</string>
+    <string name="want_to_exit">Are you sure you want to exit the app?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="write_permission_rationale">FMPlusForStations needs write permission in order to save your profile</string>
+    <string name="anon_person">Anonymous user</string>
+    <string name="login_error">Error getting user information during login:</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="permission_not_granted">Unable to perform selected action because permissions were not granted.</string>
+    <string name="directory_error">Error creating directory</string>
+    <string name="storage_unavailable">Storage for your properties is unavailable. Did you remove your SD card?</string>
+    <string name="download_error">Error downloading categories from category server:</string>
+    <string name="copyright">Copyright 2018 FM Plus LLC. All rights reserved.</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

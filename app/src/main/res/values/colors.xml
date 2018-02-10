@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorStationName">#1d8aab</color>
+    <color name="controlsBackground">#f0f0f0</color>
+    <color name="colorSelected">#8BC34A</color>
+    <color name="colorAltPrimary">#5A595B</color>
+    <!--    <color name="colorAltPrimaryDark">#689F38</color>-->
+    <color name="colorAltPrimaryDark">#000000</color>
+    <color name="colorAltAccent">#673AB7</color>
+    <color name="pressedColor">#C0C0C0</color>
+    <color name="defaultColor">#ffffff</color>
+    <color name="colorEnabled">#000000</color>
+    <color name="colorDisabled">#808080</color>
+</resources>

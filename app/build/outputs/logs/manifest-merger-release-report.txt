@@ -1,0 +1,276 @@
+-- Merging decision tree log ---
+manifest
+ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:2:1-68:12
+MERGED from [pub.devrel:easypermissions:0.4.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\easypermissions-0.4.2.aar\b1ad19ff10baff44090d1307b4810301\AndroidManifest.xml:2:1-19:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.30.0.aar\7652fe046940eedc3c21945546e2fdef\AndroidManifest.xml:21:1-31:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\1cbfeb848ccf93967ac6763b1a05cba6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\a925b1607296f95ee78cfebd0e954f4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-login:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-login-4.30.0.aar\46e298fbee636d11ed59afff4fb9ef2d\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-share-4.30.0.aar\bf5c2d432875968cabc816023e4364fb\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\55157cbb50a66ecb8f5cc57c1ceab187\AndroidManifest.xml:21:1-36:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\fb62359945b6759cffa69bd4768a797c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-places-4.30.0.aar\cb36a2044e11768b75e243225283362c\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.30.0.aar\14fb8240c0b18e4117ddf1e90075daac\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.30.0.aar\ab05871f34d7ae65a6d2fdfaa876a1b7\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\6f920d7ce139e80aa84b205782256af7\AndroidManifest.xml:21:1-45:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\7f208cc0ee1e15868ce80b4b3fd56f8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\5b528b340db2ba2ce5a0da88f2bb67b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\f521c36131dc205092693461465e9a8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\951736f8a90eab45e5612bca02a0d36c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\7852997361ccef2c2c5ab8ba915b374c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\4df5167f63781556aca1e61b00958e6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\10b47dd3264d573a69f223eddd710dfa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\44f7edb0ea210d6c8b7bb8199f0a95ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\95a3c36da42f5a287137ba29232e1419\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\2ab1869ae70d2522491177aa005211d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\67a302df2480e87c930c68ca8910e01e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\ff4b66c3eac9328896cf433162ba0c3c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\95e6caaa253b9a46a86a010f713c2ec9\AndroidManifest.xml:17:1-24:12
+INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:2:1-68:12
+	package
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml
+		INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:2:1-68:12
+		INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:2:1-68:12
+		INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:9:22-72
+application
+ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:11:5-66:19
+MERGED from [pub.devrel:easypermissions:0.4.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\easypermissions-0.4.2.aar\b1ad19ff10baff44090d1307b4810301\AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:0.4.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\easypermissions-0.4.2.aar\b1ad19ff10baff44090d1307b4810301\AndroidManifest.xml:11:5-17:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.30.0.aar\7652fe046940eedc3c21945546e2fdef\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.30.0.aar\7652fe046940eedc3c21945546e2fdef\AndroidManifest.xml:28:5-29:19
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\1cbfeb848ccf93967ac6763b1a05cba6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\1cbfeb848ccf93967ac6763b1a05cba6\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-login:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-login-4.30.0.aar\46e298fbee636d11ed59afff4fb9ef2d\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-login-4.30.0.aar\46e298fbee636d11ed59afff4fb9ef2d\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-share-4.30.0.aar\bf5c2d432875968cabc816023e4364fb\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-share-4.30.0.aar\bf5c2d432875968cabc816023e4364fb\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\55157cbb50a66ecb8f5cc57c1ceab187\AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\55157cbb50a66ecb8f5cc57c1ceab187\AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-places:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-places-4.30.0.aar\cb36a2044e11768b75e243225283362c\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-places-4.30.0.aar\cb36a2044e11768b75e243225283362c\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.30.0.aar\14fb8240c0b18e4117ddf1e90075daac\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.30.0.aar\14fb8240c0b18e4117ddf1e90075daac\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.30.0.aar\ab05871f34d7ae65a6d2fdfaa876a1b7\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.30.0.aar\ab05871f34d7ae65a6d2fdfaa876a1b7\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\6f920d7ce139e80aa84b205782256af7\AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\6f920d7ce139e80aa84b205782256af7\AndroidManifest.xml:28:5-43:19
+	android:supportsRtl
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:17:9-40
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:19:9-108
+	android:value
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:19:66-105
+	android:name
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:19:20-65
+activity#fmplus.com.fmplusforstations.LaunchActivity
+ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:21:9-31:20
+	android:label
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:23:13-45
+	android:configChanges
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:24:13-59
+	android:theme
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:22:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.facebook.FacebookActivity
+ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:32:9-35:47
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\55157cbb50a66ecb8f5cc57c1ceab187\AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\55157cbb50a66ecb8f5cc57c1ceab187\AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:35:13-45
+	android:configChanges
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:34:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\55157cbb50a66ecb8f5cc57c1ceab187\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:33:13-57
+activity#fmplus.com.fmplusforstations.RadioActivity
+ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:36:9-41:20
+	android:label
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:39:13-45
+	android:configChanges
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:38:13-96
+	android:theme
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:37:13-42
+activity#fmplus.com.fmplusforstations.LoginActivity
+ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:42:9-47:20
+	android:label
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:44:13-45
+	android:configChanges
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:45:13-59
+	android:theme
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:43:13-42
+activity#fmplus.com.fmplusforstations.StationsActivity
+ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:48:9-53:20
+	android:label
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:50:13-45
+	android:configChanges
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:51:13-59
+	android:theme
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:52:13-56
+	android:name
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:49:13-45
+activity#fmplus.com.fmplusforstations.FavoritesActivity
+ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:54:9-59:20
+	android:label
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:56:13-45
+	android:configChanges
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:57:13-59
+	android:theme
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:58:13-56
+	android:name
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:55:13-46
+activity#fmplus.com.fmplusforstations.ExtrasActivity
+ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:60:9-65:20
+	android:label
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:62:13-45
+	android:configChanges
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:63:13-59
+	android:theme
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:64:13-56
+	android:name
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml:61:13-43
+uses-sdk
+INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml
+INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml
+MERGED from [pub.devrel:easypermissions:0.4.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\easypermissions-0.4.2.aar\b1ad19ff10baff44090d1307b4810301\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:0.4.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\easypermissions-0.4.2.aar\b1ad19ff10baff44090d1307b4810301\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.30.0.aar\7652fe046940eedc3c21945546e2fdef\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.30.0.aar\7652fe046940eedc3c21945546e2fdef\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\1cbfeb848ccf93967ac6763b1a05cba6\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\1cbfeb848ccf93967ac6763b1a05cba6\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\a925b1607296f95ee78cfebd0e954f4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\a925b1607296f95ee78cfebd0e954f4b\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-login:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-login-4.30.0.aar\46e298fbee636d11ed59afff4fb9ef2d\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-login-4.30.0.aar\46e298fbee636d11ed59afff4fb9ef2d\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-share-4.30.0.aar\bf5c2d432875968cabc816023e4364fb\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-share-4.30.0.aar\bf5c2d432875968cabc816023e4364fb\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\55157cbb50a66ecb8f5cc57c1ceab187\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\55157cbb50a66ecb8f5cc57c1ceab187\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\fb62359945b6759cffa69bd4768a797c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\fb62359945b6759cffa69bd4768a797c\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-places-4.30.0.aar\cb36a2044e11768b75e243225283362c\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-places-4.30.0.aar\cb36a2044e11768b75e243225283362c\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.30.0.aar\14fb8240c0b18e4117ddf1e90075daac\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.30.0.aar\14fb8240c0b18e4117ddf1e90075daac\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.30.0.aar\ab05871f34d7ae65a6d2fdfaa876a1b7\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.30.0.aar\ab05871f34d7ae65a6d2fdfaa876a1b7\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\6f920d7ce139e80aa84b205782256af7\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\6f920d7ce139e80aa84b205782256af7\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\7f208cc0ee1e15868ce80b4b3fd56f8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\7f208cc0ee1e15868ce80b4b3fd56f8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\5b528b340db2ba2ce5a0da88f2bb67b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\5b528b340db2ba2ce5a0da88f2bb67b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\f521c36131dc205092693461465e9a8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\f521c36131dc205092693461465e9a8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\951736f8a90eab45e5612bca02a0d36c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\951736f8a90eab45e5612bca02a0d36c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\7852997361ccef2c2c5ab8ba915b374c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\7852997361ccef2c2c5ab8ba915b374c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\4df5167f63781556aca1e61b00958e6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\4df5167f63781556aca1e61b00958e6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\10b47dd3264d573a69f223eddd710dfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\10b47dd3264d573a69f223eddd710dfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\44f7edb0ea210d6c8b7bb8199f0a95ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\44f7edb0ea210d6c8b7bb8199f0a95ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\95a3c36da42f5a287137ba29232e1419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\95a3c36da42f5a287137ba29232e1419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\2ab1869ae70d2522491177aa005211d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\2ab1869ae70d2522491177aa005211d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\67a302df2480e87c930c68ca8910e01e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\67a302df2480e87c930c68ca8910e01e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\ff4b66c3eac9328896cf433162ba0c3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\ff4b66c3eac9328896cf433162ba0c3c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\95e6caaa253b9a46a86a010f713c2ec9\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\95e6caaa253b9a46a86a010f713c2ec9\AndroidManifest.xml:20:5-22:41
+INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml
+INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml
+		INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml
+		ADDED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml
+		INJECTED from L:\FMPlusForStatons\app\src\main\AndroidManifest.xml
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:0.4.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\easypermissions-0.4.2.aar\b1ad19ff10baff44090d1307b4810301\AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:0.4.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\easypermissions-0.4.2.aar\b1ad19ff10baff44090d1307b4810301\AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:0.4.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\easypermissions-0.4.2.aar\b1ad19ff10baff44090d1307b4810301\AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:0.4.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\easypermissions-0.4.2.aar\b1ad19ff10baff44090d1307b4810301\AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:0.4.2] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\easypermissions-0.4.2.aar\b1ad19ff10baff44090d1307b4810301\AndroidManifest.xml:13:13-86
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\55157cbb50a66ecb8f5cc57c1ceab187\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-common-4.30.0.aar\55157cbb50a66ecb8f5cc57c1ceab187\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\6f920d7ce139e80aa84b205782256af7\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\6f920d7ce139e80aa84b205782256af7\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\6f920d7ce139e80aa84b205782256af7\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.30.0] C:\Users\uomini\.gradle\caches\transforms-1\files-1.1\facebook-core-4.30.0.aar\6f920d7ce139e80aa84b205782256af7\AndroidManifest.xml:40:13-70
